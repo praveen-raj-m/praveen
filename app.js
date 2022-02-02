@@ -8,6 +8,7 @@ $(document).ready(function () {
     });
   });
 
+  
   $(window)
     .mouseleave(function () {
       cursor.css({
